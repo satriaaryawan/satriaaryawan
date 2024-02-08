@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **satriaaryawan/satriaaryawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there 👋, I'm Satria!
+I am currently working as a Software Quality Assurance professional at FLIK. In my role, I am responsible for creating test scenarios and test cases based on the requirements provided by business analysts.
+
+## 🔗Connect
+<p>
+  <a href="https://www.linkedin.com/in/satriaaryawan" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.instagram.com/satriaaryawan/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
+</p>
