@@ -8,7 +8,7 @@ I am currently working as a Software Quality Assurance professional at FLIK. In 
 
 <p align="left">
 <a href="https://github.com/satriaaryawan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=satriaaryawan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=satriaaryawan&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=satriaaryawan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=satriaaryawan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
